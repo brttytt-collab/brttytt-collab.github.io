@@ -1,0 +1,6 @@
+body{margin:0;font-family:Tahoma,Arial,sans-serif;background:#0e1a2b;color:#eef4fb;line-height:1.9}
+main{max-width:820px;margin:0 auto;padding:32px 20px 60px}
+h1{color:#f7c25c;font-size:30px}h2{color:#f7c25c;font-size:21px;margin-top:32px}
+a{color:#62c4fa}.card{background:#1a2f47;border-radius:16px;padding:18px 22px;margin:16px 0}
+.btn{display:inline-block;background:#f7c25c;color:#0d1826;padding:10px 22px;border-radius:12px;text-decoration:none;font-weight:bold;margin:6px 0}
+small{color:#9fb4ca}ul{padding-right:22px}.en{direction:ltr;text-align:left;border-top:1px solid #264462;margin-top:40px;padding-top:10px}
